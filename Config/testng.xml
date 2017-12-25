@@ -1,9 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
   
-<suite name="Project" verbose="1" >
+<suite name="Projectoscomerece" verbose="1" >
   <test name="sample" >
     <classes>
-       <class name="com.comerece.testrunner.Testngtestrunner" />
+       <class name="com.comerece.testrunner.TestRunner" />
     </classes>
   </test>
 </suite>
