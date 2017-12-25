@@ -2,7 +2,7 @@ package com.comerece.testrunner;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
-public class Testngtestrunner{
+public class testngtestRunner{
 	
 	
 	@CucumberOptions
