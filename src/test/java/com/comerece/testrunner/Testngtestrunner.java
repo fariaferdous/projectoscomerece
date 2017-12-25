@@ -1,4 +1,4 @@
-package com.oscomerece.testrunner;
+package com.comerece.testrunner;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
